@@ -1,4 +1,4 @@
-# Hi, I'm Mallela. Chandrakanth 👋
+# Hi, I'm Mallela Chandrakanth 👋
 
 Full Stack Developer (MERN) | Ex-TCS Associate Software Engineer
 
@@ -12,6 +12,7 @@ Full Stack Developer (MERN) | Ex-TCS Associate Software Engineer
 - Advanced DSA and problem solving
 - Full Stack Development (MERN)
 - System Design fundamentals
+- Solving DSA problems on GeeksforGeeks
 
 ## Tech Stack
 - Languages: C++, JavaScript, Java, SQL
@@ -19,6 +20,11 @@ Full Stack Developer (MERN) | Ex-TCS Associate Software Engineer
 - Backend: Node.js, Express.js
 - Database: MongoDB
 - Tools: Git, GitHub, Postman, VS Code
+
+## 🏆 Coding Profiles
+
+- GeeksforGeeks: https://share.google/XsVhg4kANh6hjmgnG
+- LinkedIn: https://linkedin.com/in/chandra-kanth-0079
 
 ## Reach Me
 📧 chandumallela007@gmail.com  
