@@ -21,4 +21,4 @@ Full Stack Developer (MERN) | Ex-TCS Associate Software Engineer
 - Tools: Git, GitHub, Postman, VS Code
 
 ## Reach Me
-📧 chandumallela007@example.com  
+📧 chandumallela007@gmail.com  
