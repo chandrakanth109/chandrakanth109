@@ -3,7 +3,7 @@
 Full Stack Developer (MERN) | Ex-TCS Associate Software Engineer
 
 ## About Me
-- M.Tech in Computer Science
+- M.Tech in Computer Science (JNTU Hyderabad)
 - Strong in Data Structures & Algorithms using C++
 - Building scalable web applications and REST APIs
 - Actively seeking Software Development opportunities
