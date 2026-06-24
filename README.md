@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Mallela. Chandrakanth 👋
 
-<!--
-**chandrakanth109/chandrakanth109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer (MERN) | Ex-TCS Associate Software Engineer
 
-Here are some ideas to get you started:
+## About Me
+- M.Tech in Computer Science
+- Strong in Data Structures & Algorithms using C++
+- Building scalable web applications and REST APIs
+- Actively seeking Software Development opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+- Advanced DSA and problem solving
+- Full Stack Development (MERN)
+- System Design fundamentals
+
+## Tech Stack
+- Languages: C++, JavaScript, Java, SQL
+- Frontend: React.js, HTML, CSS, Tailwind CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Tools: Git, GitHub, Postman, VS Code
+
+## Reach Me
+📧 chandumallela007@example.com  
