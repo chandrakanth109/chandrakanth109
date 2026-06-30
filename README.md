@@ -24,7 +24,7 @@ Full Stack Developer (MERN) | Ex-TCS Associate Software Engineer
 ## 🏆 Coding Profiles
 
 - GeeksforGeeks: https://www.geeksforgeeks.org/profile/chandumallela007
-- LinkedIn: https://linkedin.com/in/chandra-kanth-0079
+- LinkedIn: https://www.linkedin.com/in/mallela-chandrakanth-d2506
 
 ## Reach Me
 📧 chandumallela007@gmail.com  
